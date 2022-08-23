@@ -1,0 +1,14 @@
+{
+  "name": "weather_server",
+  "version": "1.0.0",
+  "description": "server side; pull and pass through weather-data",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "author": "paj.he",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
